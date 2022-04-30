@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jolly
 - 👀 I’m interested in programming codes and videogames
-- 🌱 I’m currently learning informatics at the University of Cagliari, in Italy 
+- 🌱 I’m currently learning programming at the University of Cagliari, in Italy 
 - 📫 How to reach me: thejolly01twitch@gmail.com
 
 <!---
