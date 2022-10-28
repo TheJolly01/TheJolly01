@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonio
 - 👀 I’m interested in programming codes and videogames
 - 🌱 I’m currently learning programming at the University of Cagliari, in Italy 
-- 📫 How to reach me: delrioantonio01@gmail.com
+- 📫 How to reach me: adelrio.dev@outlook.com
 
 <!---
 TheJolly01/TheJolly01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
