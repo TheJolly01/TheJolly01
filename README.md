@@ -25,6 +25,14 @@ Hi everyone, I'm Antonio, but you can call me Jolly. I am a 22 years old guy wit
 
 - Blender
 
+## How to reach me
+![Banner Contact](https://user-images.githubusercontent.com/86883141/219644378-dcf1a241-3cb3-4424-8f24-0aa1bf6547a7.png)
+
+- Discord - Jolly#3089
+- Instagram - @adelrio.dev
+- Steam - the_jolly01
+- Reddit - u/The_Jolly01
+- Twitter - @thejolly01
 <!---
 TheJolly01/TheJolly01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
