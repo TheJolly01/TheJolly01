@@ -1,6 +1,6 @@
 ![Jolly Official Dev](https://user-images.githubusercontent.com/86883141/219606053-1554dafb-cee8-42ba-a8f6-3cac254b3abc.gif)
 
-# THE JOLLY 01
+# JOLLY (Antonio Delrio)
 
 ## Introduzione / Introduction
 ### ITA
