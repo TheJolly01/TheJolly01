@@ -15,7 +15,7 @@ Hi everyone, I'm Antonio, but you can call me Jolly. I am a 22 years old guy wit
 
 - C
 - Java
-- Python
+- C++
 
 ### Motori grafici di gioco / Graphic Game Engines
 ![Banner Videogame](https://user-images.githubusercontent.com/86883141/219610732-3e0eb6b9-82e5-4d70-b683-ae0986984d43.png)
