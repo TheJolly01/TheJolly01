@@ -30,8 +30,8 @@ Hi everyone, I'm Antonio, but you can call me Jolly. I am a 22 years old guy wit
 ## Contatti / How to reach me
 ![Banner Contact](https://user-images.githubusercontent.com/86883141/219644378-dcf1a241-3cb3-4424-8f24-0aa1bf6547a7.png)
 
-- Discord - Jolly#3089
-- Instagram - @adelrio.dev
+- Discord - the_jolly01
+- Instagram - @the_jolly01
 - Steam - the_jolly01
 - Reddit - u/The_Jolly01
 - Twitter - @thejolly01
