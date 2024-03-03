@@ -1,4 +1,4 @@
-![Jolly Official Dev](https://user-images.githubusercontent.com/86883141/219606053-1554dafb-cee8-42ba-a8f6-3cac254b3abc.gif)
+![Banner Jolly Game Developer](https://github.com/TheJolly01/TheJolly01/assets/86883141/a4b59b90-403d-4aec-8133-22154001c1ef)
 
 # JOLLY (Antonio Delrio)
 
